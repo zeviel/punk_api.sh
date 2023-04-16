@@ -3,6 +3,6 @@ Web-API for [punkapi.com](https://punkapi.com) service that takes Brewdog's DIY 
 
 ## Example
 ```bash
-source punk_api.sh
+source ./punk_api.sh
 get_random_beer
 ```
